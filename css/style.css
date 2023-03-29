@@ -277,6 +277,7 @@ a {
     bottom: 0%;
     display: none;
     z-index: -55555555;
+    overflow-y: hidden;
 
 
 }
